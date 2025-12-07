@@ -13,4 +13,6 @@
        git config --global user.email "you@example.com"
        git config --global user.name "Your Name"
    6.6 git push origin main - To push local changes on git hub
-   
+   6.7 Manually modified README file on git hub browser
+   6.8 git pull origin main - To pull modified file from github to local
+   6.9 cat README file- to check the content of file on terminal
